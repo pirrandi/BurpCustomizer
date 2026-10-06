@@ -4,7 +4,7 @@
 </p>
 <hr>
 <p align="center">
-  <img src="https://img.shields.io/github/actions/workflow/status/C0DEbrained/BurpCustomizer/build.yml?style=for-the-badge" alt="GitHub Workflow Status">
+  <img src="https://img.shields.io/github/actions/workflow/status/Pirrandi/BurpCustomizer/build.yml?style=for-the-badge" alt="GitHub Workflow Status">
   <img src="https://img.shields.io/github/watchers/CoreyD97/BurpCustomizer?label=Watchers&style=for-the-badge" alt="GitHub Watchers">
   <img src="https://img.shields.io/github/stars/CoreyD97/BurpCustomizer?style=for-the-badge" alt="GitHub Stars">
   <img src="https://img.shields.io/github/downloads/CoreyD97/BurpCustomizer/total?style=for-the-badge" alt="GitHub All Releases">
@@ -13,6 +13,9 @@
 <hr>
 
 **Created By: CoreyD97 [![@CoreyD97](https://img.shields.io/twitter/follow/CoreyD97?style=social)](https://twitter.com/coreyd97/)**
+
+> Maintained fork of [CoreyD97/BurpCustomizer](https://github.com/C0DEbrained/BurpCustomizer) with support for
+> Burp Suite 2026.x. All credit for the original extension goes to CoreyD97.
 
 _Everybody knows hackers only work at night, so for years people asked PortSwigger to implement a dark theme.
 When they did, hackers rejoiced everywhere! But, some still wanted more... Until... Burp Customizer!_  
@@ -74,7 +77,7 @@ All theme credits go to their original authors.
 ---
 
 ### Installing:
-1. Download the latest jar from https://github.com/C0DEbrained/BurpCustomizer/releases
+1. Download the latest jar from https://github.com/Pirrandi/BurpCustomizer/releases
 2. Add the jar to Burp Suite.
 
 Supports Burp Suite 2026.x (Community and Professional). The build is tested weekly against the latest
